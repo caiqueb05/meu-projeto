@@ -1,0 +1,16 @@
+{
+    "nome": "Naruto",
+    "vila": "Folha Oculta",
+    "idade": 33,
+    "poderes": 
+    [
+        {
+            "nome": "Clones das sombras",
+            "força": "MÉDIO"
+        },
+        {
+            "nome": "Rasengan",
+            "força": "FORTE"
+        }
+    ]
+}
